@@ -55,6 +55,20 @@ body{
     background-color: #949484;
 
 }
-#nial{
-    bor
+
+#niall{
+    border-bottom: 2px solid brown;
+    background-color: rgb(86, 101, 102);
+}
+#harry{
+    border-bottom: 2px solid brown;
+    background-color: cadetblue;
+}
+#louis{
+    border-bottom: 2px solid brown;
+    background-color: rgb(97, 107, 107);
+}
+#liam{
+    border-bottom: 2px solid brown;
+    background-color: rgb(45, 48, 48);
 }

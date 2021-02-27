@@ -79,4 +79,19 @@ img{
     padding:2px;
     display: inline-block;
 
-    margin: 10px}
+    margin: 10px
+}
+.home{
+    background-color: green;
+    width: 30px;
+    margin-left: 5px;
+    border:2px solid black;
+    font-size: 25px;
+    border-radius: 5px;
+    color: cornsilk;
+    padding: 10px;
+}
+a:hover{
+    color:rgb(126, 196, 196)
+    
+}

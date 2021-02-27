@@ -10,34 +10,47 @@ body{
     margin: auto;
    }
     
-
+#navigation{
+    background-color: rgb(148, 130, 130);
+}
 #navigation li{
     display: inline-block;
     list-style: none;
     text-align:left;
+    line-height: 2em; 
+    font-size: 25px;
+    
 }
 #navigation li a{
-    padding: 10px;
+    
     margin:5px;
-    background-color: rgb(148, 130, 130);
+    padding:0em 1em;
+    text-decoration:none;
+    
+}
+#navigation li a:hover{
+    background-color: indianred;
+    height:2.3em;
+
+
 }
 .article{
     border: 1px solid forestgreen;
 }
 
 #article1 {
-    padding:20px;
+    padding:5px 0px 0px 0px;
     margin: 20px 5px 0px 0px;
     background-color: gray;
 }
 #article2 {
-    padding:20px;
+    padding:5px 0px 0px 0px;
     margin: 20px 5px 0px 0px;
     background-color: #808045;
 
 }
 #article3 {
-    padding:20px;
+    padding:5px 0px 0px 0px;
     margin: 20px 5px 0px 0px;
     background-color: #949484;
 
